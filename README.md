@@ -1,5 +1,6 @@
 # My Note
 
+
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue)
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.2.10-purple)
 ![Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-brightgreen)
@@ -32,7 +33,22 @@
 - Navigation Compose
 - Coroutines & Flow
 
+
+
+## 🎯 هدف پروژه
+
+این پروژه برای:
+
+تمرین معماری استاندارد اندروید
+
+توسعه یک اپ نوت‌برداری واقعی
+
+استفاده به‌عنوان پروژه نمونه (Portfolio)
+
+طراحی و پیاده‌سازی شده است.
+
 ---
+
 
 ## ▶️ اجرای پروژه
 1. کلون پروژه:
@@ -49,15 +65,6 @@ git clone https://github.com/sadegh-it/My-Note.git
 آخرین نسخه پایدار:
 https://github.com/sadegh-it/My-Note/releases/latest
 
----
-## 🎯 هدف پروژه
+## 📥 Download
+- [Download APK (v1.0.1)](https://github.com/sadegh-it/My-Note/releases/latest)
 
-این پروژه برای:
-
-تمرین معماری استاندارد اندروید
-
-توسعه یک اپ نوت‌برداری واقعی
-
-استفاده به‌عنوان پروژه نمونه (Portfolio)
-
-طراحی و پیاده‌سازی شده است.
