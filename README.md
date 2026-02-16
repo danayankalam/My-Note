@@ -8,22 +8,28 @@
 ![Status](https://img.shields.io/badge/Status-Stable-success)
 
 
-یک اپلیکیشن نوت‌برداری مدرن با معماری استاندارد و بهترین شیوه‌های توسعه اندروید.
+A modern note-taking application built with a standard Android architecture and best development practices.
 
-## ✨ ویژگی‌ها
-- طراحی کامل با **Jetpack Compose**
-- معماری **MVVM**
-- تزریق وابستگی با **Dagger Hilt**
-- پایگاه داده **Room**
-- **DataStore** برای ذخیره تنظیمات
-- **Navigation Compose**
-- ذخیره‌سازی آفلاین
-- رابط کاربری مدرن و ساده
-- **DataStore** برای ذخیره تنظیمات (مثل تم دارک و لایت)
-- **Navigation Compose** برای مدیریت مسیرها
-- ذخیره‌سازی آفلاین و سریع
-- رابط کاربری مدرن، ساده و قابل توسعه
-## 🧱 تکنولوژی‌ها
+##✨ Features
+
+Fully built with Jetpack Compose
+
+Clean MVVM architecture
+
+Dependency Injection using Dagger Hilt
+
+Local database powered by Room
+
+Settings storage using DataStore (Preferences)
+
+Navigation handled by Navigation Compose
+
+Fast and reliable offline storage
+
+Modern, clean, and scalable UI
+
+Dark & Light theme support
+## 🧱 Tech Stack
 - Kotlin
 - Jetpack Compose
 - MVVM
@@ -35,35 +41,31 @@
 
 
 
-## 🎯 هدف پروژه
+##🎯 Project Goal
 
-این پروژه برای:
+This project was designed and implemented to:
 
-تمرین معماری استاندارد اندروید
+Practice standard Android architecture
 
-توسعه یک اپ نوت‌برداری واقعی
+Build a real-world note-taking application
 
-استفاده به‌عنوان پروژه نمونه (Portfolio)
-
-طراحی و پیاده‌سازی شده است.
+Serve as a portfolio project.
 
 ---
 
 
-## ▶️ اجرای پروژه
-1. کلون پروژه:
+## ▶️ Run the Project
+
+1. Clone the repository:
 ```bash
 git clone https://github.com/sadegh-it/My-Note.git
 
 ```
+2. Open the project in Android Studio
+
+3. Build and run on an emulator or physical device
 ---
 
-## 📦 دانلود
-
-
-
-آخرین نسخه پایدار:
-https://github.com/sadegh-it/My-Note/releases/latest
 
 ## 📥 Download
 - [Download APK (v1.0.1)](https://github.com/sadegh-it/My-Note/releases/latest)
