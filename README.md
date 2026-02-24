@@ -53,6 +53,72 @@ Serve as a portfolio project.
 
 ---
 
+## 📂 Project Structure
+
+```
+
+mynote/
+   ├── base/
+   │   └── NoteApp.kt
+   ├── core/
+   │   └── util/
+   ├── HighlightText.kt
+   │       └── PersianDate.kt
+   ├── data/
+   │   └── local/
+   │       ├── datastore/
+   │       │   ├── AppSettings.kt
+   │       │   ├── DataStoreExt.kt
+   │       │   ├── ThemeDataStore.kt
+   │       │   └── ThemeManager.kt
+   │       └── db/
+   │           ├── AppDatabase.kt
+   │           ├── dao/
+   │           │   └── NoteDao.kt
+   │           └── entity/
+   │               └── NoteEntity.kt
+   ├── di/
+   │   ├── DatabaseModule.kt
+   │   └── DataModule.kt
+   ├── MainActivity.kt
+   ├── navigation/
+   │   ├── navGraph.kt
+   │   └── Screens.kt
+   ├── repository/
+   │   └── NotesRepository.kt
+   ├── ui/
+   │   ├── event/
+   │   │   └── UiEvent.kt
+   │   ├── model/
+   │   │   └── NoteUiModel.kt
+   │   ├── screen/
+   │   │   ├── add_edit/
+   │   │   │   ├── AddEditNoteScreen.kt
+   │   │   │   └── components/
+   │   │   │       ├── AddEditTopAppBar.kt
+   │   │   │       ├── ColorPalette.kt
+   │   │   │       ├── ContentTextField.kt
+   │   │   │       ├── PinCheckbox.kt
+   │   │   │       └── TitleTextField.kt
+   │   │   └── notes/
+   │   │       ├── components/
+   │   │       │   ├── AppAlertDialog.kt
+   │   │       │   ├── EmptyState.kt
+   │   │       │   ├── MessageHandler.kt
+   │   │       │   ├── MyCustomSnackbar.kt
+   │   │       │   ├── NoteCard.kt
+   │   │       │   ├── NotesList.kt
+   │   │       │   └── SearchBar.kt
+   │   │       ├── NoteListScreen.kt
+   │   │       └── NotesTopBar.kt
+   │   └── theme/
+   │       ├── Color.kt
+   │       ├── Theme.kt
+   │       └── Type.kt
+   └── viewModel/
+  │        └── NotesViewModel.kt
+```
+
 
 ## ▶️ Run the Project
 
